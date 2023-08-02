@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "webpack --output-filename=bundle.js --mode=development"
+  },
   "devDependencies": {
     "webpack": "^5.78.0",
     "webpack-cli": "^5.1.4"
