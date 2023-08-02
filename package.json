@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "webpack --output-filename=bundle.js --mode=development"
+    "build": "webpack"
   },
   "devDependencies": {
     "webpack": "^5.78.0",
